@@ -2,5 +2,5 @@
 ## home  
 ---  
 Which entrance do you want to take?  
-## [The Fancy Gold Entrance](fancy-golden-enterance/miss)   
-## [The Old-Wooden-Door](old-wooden-door/cake)
+## [The Fancy Gold Entrance](fancy-golden-entrance/phone-call.md)  
+## [The old-wooden-door](old-wooden-door/cake.md) 
