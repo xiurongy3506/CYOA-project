@@ -8,4 +8,4 @@ You walk down the stairs, only to see a sign that says that following:
 You are infurious.
 
 ## [Start from the very beginning](../home)  
-## [Quit.](quit-message)
+## [Quit.](quit-message.md)
