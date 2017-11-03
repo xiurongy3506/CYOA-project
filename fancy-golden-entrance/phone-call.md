@@ -5,7 +5,7 @@
 You've entered the room. You've noticed bloods over the wall. Suddently, a old 19CE telephone starts ringing.  
 What do you want to do?  
 
-## [Pick up the phone](left-right-.md)  
+## [Pick up the phone](rout.md)  
 ## [Leave it](result-three-end.md)  
 
 ---  
