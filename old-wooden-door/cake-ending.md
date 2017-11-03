@@ -5,4 +5,4 @@ After eating the cake, you realize that you don’t feel well. You have food poi
 
 After a short, but painful recovery, you decided to sue whoever made that haunted 
 
-## [Try again?](../../home.)
+## [Try again?](../home.)

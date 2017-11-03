@@ -7,5 +7,5 @@ You walk down the stairs, only to see a sign that says that following:
 
 You are infurious.
 
-## [Start from the very beginning](../../home.md)  
+## [Start from the very beginning](../home.md)  
 ## [Quit.](quit-message.md)
