@@ -1,6 +1,6 @@
 # Escape!
 ---
 
-You see a bright light! And you (finally) managed to escape with everything intact.
+You see a bright light! And you _(finally)_ managed to escape with everything intact.
 
 ## [Try again?](../home.md)
