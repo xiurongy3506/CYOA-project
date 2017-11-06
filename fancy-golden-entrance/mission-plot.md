@@ -6,8 +6,8 @@ The man asked you to take out a flashlight from the hidden box that is camouflag
 
 What do you want to do?  
 
-## [Take the flashlight and accept the mission.](mission.md)  
-## [Take the flashlight and walk  away or just walk away](result-two-trapped.md)  
+##  [Take the flashlight and accept the mission.](reaction.md)  
+##  [Take the flashlight and walk away or just walk away](result-two-trapped.md)  
 
 ---  
 [Start over](../home.md)  
