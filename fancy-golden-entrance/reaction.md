@@ -2,7 +2,8 @@
 ## reaction.md  
 ---  
 
-A red dressed ghost appeared right in front of you.  
+A red dressed ghost appeared right in front of you. To make her disapear, you must point the flashlight at her.  
+<img src="https://raw.githubusercontent.com/xiurongy3506/cyoa-project/master/fancy-golden-entrance/red.jpg" id="c9.io" alt="" />
 
 What do you do?  
 
