@@ -13,3 +13,5 @@ What do you do?
 ---  
 [Start over](../home.md)  
 
+Photo Credit (Link of original picture):[Red dressed girl](https://pixabay.com/en/red-dress-spinning-dress-red-woman-1149534/)  
+

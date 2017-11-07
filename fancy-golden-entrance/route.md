@@ -11,5 +11,7 @@ Which way do you want to exit?
 ## [Leave it and take the right route](result-three-end.md)  
 
 ---  
-[Start over](../home.md) 
+[Start over](../home.md)  
+
+Photo Credit (Link of original picture): [Direction(a room)](https://www.flickr.com/photos/jlascar/14793376124)  
 

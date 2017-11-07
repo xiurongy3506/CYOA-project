@@ -3,4 +3,7 @@
 ---  
 Which entrance do you want to take?  
 ## [The Fancy Gold Entrance](fancy-golden-entrance/phone-call.md)  
-## [The Old Wooden Door](old-wooden-door/cake.md) 
+## [The Old Wooden Door](old-wooden-door/cake.md)  
+
+---
+[Clicke here for all photo credits](README.md)

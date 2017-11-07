@@ -13,4 +13,6 @@ you saw an old telephone on the table. Suddently, the telephone starts ringing. 
 ---  
 [Start over](../home.md)  
 
+Photo Credit (Link of original picture): [Fancyhall](https://commons.wikimedia.org/wiki/File:Marwar_Hall.jpg) 
+
 
