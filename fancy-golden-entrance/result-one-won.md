@@ -7,5 +7,5 @@ Congratulations!!! You saved the man. In return for your kind act, he led you ou
 ---  
 [Start over](../home.md)  
 
-Photo Credit (Link of original picture): [House](http://3pointlighting.co.uk/hatfield-house-old-palace/)  
+Photo Credit (Link of original picture): [House/ Hatfield House Old Palace](http://3pointlighting.co.uk/hatfield-house-old-palace/)  
 

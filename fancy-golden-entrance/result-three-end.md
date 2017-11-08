@@ -7,4 +7,4 @@ You lose the chance to get advice. You are trapped in this room forever!!!
 ---
 [Start-over](../home.md)  
 
-Photo Credit (Link of original picture): [Trapped](https://sandersfamilyadventures.wordpress.com/2015/10/04/trapped-by-little-miracles/)  
+Photo Credit (Link of original picture): [Trapped/ author:Aaron Sanders ](https://sandersfamilyadventures.wordpress.com/2015/10/04/trapped-by-little-miracles/)  

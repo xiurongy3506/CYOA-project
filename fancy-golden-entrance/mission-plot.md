@@ -12,5 +12,5 @@ What do you want to do?
 ---  
 [Start over](../home.md)  
 
-Photo Credit (Link of original picture):[Flashlight](https://commons.wikimedia.org/wiki/File:Maglite_Flashlight.jpg)  
+Photo Credit (Link of original picture):[Flashlight/ author: redjar](https://commons.wikimedia.org/wiki/File:Maglite_Flashlight.jpg)  
 

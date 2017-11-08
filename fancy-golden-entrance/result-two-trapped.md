@@ -7,6 +7,6 @@ You are running away from a ghost and ended up trapping with the same person on 
 ---  
 [Start over](../home.md)  
 
-Photo Credit (Link of original picture): [Trapped](https://sandersfamilyadventures.wordpress.com/2015/10/04/trapped-by-little-miracles/)  
+Photo Credit (Link of original picture): [Trapped/ author:Aaron Sanders](https://sandersfamilyadventures.wordpress.com/2015/10/04/trapped-by-little-miracles/)  
 
 

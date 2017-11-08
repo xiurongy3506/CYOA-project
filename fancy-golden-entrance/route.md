@@ -12,5 +12,5 @@ Which way do you want to exit?
 ---  
 [Start over](../home.md)  
 
-Photo Credit (Link of original picture): [Direction(a room)](https://www.flickr.com/photos/jlascar/14793376124)  
+Photo Credit (Link of original picture): [Direction(a room)/ author:Jorge Láscar](https://www.flickr.com/photos/jlascar/14793376124)  
 

@@ -13,6 +13,6 @@ You see an old telephone on the table. Suddenly, the telephone starts ringing. W
 ---  
 [Start over](../home.md)  
 
-Photo Credit (Link of original picture): [Fancyhall](https://commons.wikimedia.org/wiki/File:Marwar_Hall.jpg) 
+Photo Credit (Link of original picture): [Fancyhall/ author: Taj Hotels Resorts and Palaces](https://commons.wikimedia.org/wiki/File:Marwar_Hall.jpg) 
 
 
