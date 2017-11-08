@@ -1,5 +1,4 @@
-# Escaping the Hunted house  
-## reaction.md  
+# A ghost appeared!
 ---  
 
 A red dressed ghost appeared right in front of you. To make her disapear, you must point the flashlight at her.  
