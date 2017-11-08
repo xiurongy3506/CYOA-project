@@ -1,8 +1,7 @@
-# Escaping the Hunted house  
-## Result-one-won
+# Escape
 ---  
 
-congratulations!! you saved a men and he led you out of the hubted house!!  
+Congratulations!!! You saved the man. In return for your kind act, he led you out of the haunted house!!
 <img src="https://raw.githubusercontent.com/xiurongy3506/cyoa-project/master/fancy-golden-entrance/outside.jpg" id="c9.io" alt="" />
 
 ---  
