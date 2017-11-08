@@ -6,4 +6,4 @@ Which entrance do you want to take?
 ## [The Old Wooden Door](old-wooden-door/cake.md)  
 
 ---
-[Clicke here for all photo credits](README.md)
+[Click here for all photo credits](README.md)
